@@ -112,6 +112,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a href="https://github.com/Dizziolica/PortitolioHtmlCss">
-    <img src="html.png" alt="Portifolio" width="800" height="500">
+    <img src="html.png" alt="Portifolio" width="1000" height="500">
   </a>
 
