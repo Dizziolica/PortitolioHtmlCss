@@ -44,7 +44,7 @@
       </ul>
     </li>
     <li>
-      <a href="/ligacao.py">Getting Started</a>
+      <a href="https://github.com/Dizziolica/PortitolioHtmlCss">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
